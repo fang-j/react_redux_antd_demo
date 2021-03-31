@@ -35,3 +35,6 @@ Redux DevTools 调试需要在createStore(函数参数, 第二个参数)
 样例: TodoListUI.js
 * 只写UI,不写业务逻辑
 * 性能更高
+
+# react-redux的使用
+文件在react_redux.rar文件
